@@ -15,3 +15,8 @@ source_metadata:
       parent: Long Life Prayers
 created_at: '2022-03-01T00:38:09.278754'
 last_modified_at: '2022-03-01T00:38:09.278757'
+statistics:
+  total_words: 664
+  total_non_words: 73
+quality:
+  non_words_ratio: 0.11
